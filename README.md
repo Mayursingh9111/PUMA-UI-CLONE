@@ -1,7 +1,7 @@
 # Puma UI Clone
 
 This repository contains a responsive clone of the Puma website UI, developed using only HTML and CSS. This project recreates the visual design and layout of the Puma website, offering a similar user experience.
-!(images/readmeimg/1.png)
+![screen](images/readme img/1.png)
 ## Features
 
 - **Responsive Design**: The UI adapts to various screen sizes, providing a seamless experience on desktops, tablets, and mobile devices.
