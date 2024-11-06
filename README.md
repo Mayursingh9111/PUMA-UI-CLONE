@@ -15,3 +15,4 @@ This repository contains a responsive clone of the Puma website UI, developed us
 Check out the live version of the project [here](https://puma-ui-clone.vercel.app/) 
 
 <img src="images/readme img/3.png" alt="Homepage Screenshot" width="600" />
+By- Mayur Singh Shekhawat 
