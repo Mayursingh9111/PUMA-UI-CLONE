@@ -10,6 +10,6 @@ This repository contains a responsive clone of the Puma website UI, developed us
 
 ## Live Demo
 
-Check out the live version of the project [here](https://pumai-clone.netlify.app/) 
+Check out the live version of the project [here](https://puma-ui-clone.vercel.app/) 
 
 
